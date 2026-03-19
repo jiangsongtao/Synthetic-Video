@@ -2,7 +2,7 @@
 
 **CVPR 2026**
 
-[\[Paper\]](https://arxiv.org/abs/xxxx.xxxxx) [\[Project Page\]](https://github.com/jiangsongtao/Synthetic-Video)
+[\[Paper\]](https://arxiv.org/abs/2603.17693) [\[Project Page\]](https://github.com/jiangsongtao/Synthetic-Video)
 
 ## Overview
 
